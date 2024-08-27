@@ -3,7 +3,7 @@
   
 * This chat application is a console-based program with a graphical user interface (GUI) developed using Java Swing.
 * It uses Java socket programming for client-server communication and Java multithreading to handle multiple clients and events concurrently.
-
+![chatAppScreen](https://github.com/user-attachments/assets/513c4719-276a-4dd0-a693-1a037c3fccd3)
 ## Features
 * Graphical User Interface: User-friendly interface developed with Java Swing.
 * Client-Server Communication: Utilizes Java socket programming for real-time chat between clients.
